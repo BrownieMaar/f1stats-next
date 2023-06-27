@@ -1,0 +1,21 @@
+.link {
+    font-family: 'F1';
+    font-weight: bold;
+    text-transform: uppercase;
+    padding: 0.5rem 1rem;
+    text-decoration: none;
+    background-color: transparent;
+    color: #fff;
+    transition: all 0.2s ease-in-out;
+    
+}
+
+.link:hover {
+    background-color: #000;
+}
+
+.header {
+    display: flex;
+    direction: row;
+    align-items: center;
+}
